@@ -1,10 +1,10 @@
-## react demo练习
+# react demo练习
 
 
-# 用react做的一个demo（todolist）
+## 用react做的一个demo（todolist）
 
 
-# 使用方法：
+## 使用方法：
 
 1.npm install
 
